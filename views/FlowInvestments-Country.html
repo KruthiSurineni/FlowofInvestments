@@ -156,7 +156,7 @@ var cells = svg.append("svg:g")
     var circles = svg.append("g")
     .attr("id", "circles");
 
-d3.json("world-110m2.json", function(collection) {
+d3.json("../Data/world-110m2.json", function(collection) {
   countries.selectAll("path")
      .data(topojson.object(collection, collection.objects.countries)
           .geometries)
@@ -166,7 +166,7 @@ d3.json("world-110m2.json", function(collection) {
 
  
 
-      d3.json("queryFundingYear.php", function(error, investments) {
+      d3.json("../PHP/queryFundingYear.php", function(error, investments) {
       var linksByOrigin = {},
         locationByCompany = {},
         countByOrigin = {},
@@ -190,7 +190,7 @@ d3.json("world-110m2.json", function(collection) {
 
   });
 
-  d3.csv("lat_long_generated.csv", function(datapoints) {
+  d3.csv("../Data/lat_long_generated.csv", function(datapoints) {
 
     // Only consider investments with at least one such link.
     datapoints = datapoints.filter(function(datapoint) {
@@ -292,7 +292,7 @@ function make_y_axis() {
          .ticks(10)
 }
 
-d3.json("BarChartData.php", function(error, data) {
+d3.json("../PHP/BarChartData.php", function(error, data) {
   if (error) throw error;
   var fundingNames = ["OUTGOING","INCOMING"];
   

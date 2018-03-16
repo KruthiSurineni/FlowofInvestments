@@ -142,7 +142,7 @@ var cells = svg.append("svg:g")
     var circles = svg.append("g")
     .attr("id", "circles");
 
-d3.json("world-110m2.json", function(collection) {
+d3.json("../Data/world-110m2.json", function(collection) {
   countries.selectAll("path")
      .data(topojson.object(collection, collection.objects.countries)
           .geometries)
@@ -152,7 +152,7 @@ d3.json("world-110m2.json", function(collection) {
 
  
 
-      d3.json("queryUSdata.php", function(error, investments) {
+      d3.json("../PHP/queryUSdata.php", function(error, investments) {
       var linksByOrigin = {},
         locationByCompany = {},
         countByOrigin = {},
@@ -180,8 +180,8 @@ d3.json("world-110m2.json", function(collection) {
           
       }   
   });
-console.log("map1");
-  d3.csv("lat_long_generated.csv", function(datapoints) {
+
+  d3.csv("../Data/lat_long_generated.csv", function(datapoints) {
 
     // Only consider investments with at least one such link.
     datapoints = datapoints.filter(function(datapoint) {
@@ -243,7 +243,6 @@ console.log("map1");
         .style("stroke-width", function(d){if (d.source == "CAN")  return Math.sqrt(countByDestination[d.target]); else return Math.sqrt(countByOrigin[d.source]); })
         .style("stroke", function(d){if (d.source == "CAN") {console.log("red");return "red";} else return "#1E90FF"; });*/
 
-console.log("hello");
 
     circles.selectAll("circle")
         .data(datapoints)
@@ -295,7 +294,7 @@ function make_y_axis() {
          .ticks(10)
 }
 
-d3.json("BarChartUS.php", function(error, data) {
+d3.json("../PHP/BarChartUS.php", function(error, data) {
   if (error) throw error;
   var fundingNames = ["OUTGOING","INCOMING"];
   
@@ -337,7 +336,7 @@ svg.append("g")
             .tickFormat("")
         )*/
 
-console.log("hello1gyhghgh");
+
 var year = svg.selectAll(".year")
 .data(data)
 .enter().append("g")

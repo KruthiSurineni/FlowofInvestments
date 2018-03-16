@@ -1,0 +1,145 @@
+Country_Code,Region,City,Latitude,Longitude
+ARE,Abu Dhabi,Abu Dhabi,24.466,54.366
+ARG,Buenos Aires,Buenos Aires,-34.613,-58.377
+ARM,Yerevan,Yerevan,40.181,44.513
+AUS,Canberra ,Canberra,-35.2809,149.13
+AUT,Vienna,Vienna,48.2025,16.3688
+AZE,Baku,Baku-baladshary,40.377,49.892
+BEL,Brussels,Brussels,50.85,4.348
+BGD,Dhaka,Dhaka,23.71,90.407
+BGR,Sofia,Sofia,42.697,23.324
+BHR,Bahrain,Manama,26.215,50.583
+BHS,Bahamas,Nassau,25.058,-77.343
+BMU,Bermuda,Hamilton,55.7772,-4.0528
+BRA,Brasilia,Brasília,-15.779,-47.929
+CAN,Ottawa,Ottawa,45.4215,-75.6972
+CHE,Bern,Bern,46.9484,7.4405
+CHL,Santiago,Santiago,-33.426,-70.566
+CHN,Beijing,Beijing,39.907,116.397
+COL,Bogota,Bogotá,4.609,-74.081
+CYM,Cayman Islands,George Town,48.8152,2.3486
+CYP,Cyprus,Nicosia,35.166,33.366
+CZE,Prague,Prague,50.088,14.42
+DEU,Berlin,Berlin,52.5161,13.377
+DNK,Copenhagen,Copenhagen,55.675,12.565
+ECU,Quito,Quito,-0.229,-78.524
+EGY,Cairo,Cairo,30.062,31.249
+ESP,Madrid,Madrid,40.4203,-3.7058
+EST,Tallinn,Tallinn,59.436,24.753
+FIN,Helsinki,Helsinki,60.169,24.935
+FRA,Paris,Paris,48.8569,2.3412
+GBR,London,London,51.5064,-0.1272
+GEO,Tbilisi,Tbilisi,41.694,44.833
+GHA,Accra,Accra,5.556,-0.196
+GIB,GIB - Other,Gibraltar,51.0556,3.7286
+GRC,Athens,Athens,37.979,23.716
+GTM,Guatemala City,Guatemala City,14.64,-90.513
+HKG,Hong Kong,Hong Kong,22.285,114.157
+HRV,Zagreb,Zagreb,45.814,15.977
+HUN,Budapest,Budapest,47.498,19.039
+IDN,Jakarta,Jakarta,-6.214,106.845
+IND,Delhi,Delhi,28.666,77.216
+IRL,Dublin,Dublin,53.3481,-6.2483
+IRN,IRN - Other,Rasht,37.28,49.583
+ISL,Reyjavik,Reykjavík,64.135,-21.895
+ISR,Tel Aviv,Tel Aviv,32.066,34.766
+ITA,Rome,Rome,41.9032,12.4957
+JOR,Amman,Amman,31.955,35.945
+JPN,Tokyo,Tokyo,35.6249,139.5856
+KEN,Nairobi,Nairobi,-1.283,36.816
+KHM,Phnom Penh,Phnom Penh,11.562,104.916
+KOR,Seoul,Seoul,37.568,126.977
+KWT,Kuwait City,Kuwait,29.3759,47.9774
+LBN,Beirut,Beirut,33.888,35.494
+LKA,Sri Lanka,Colombo,6.931,79.847
+LTU,Vilnius,Vilnius,54.689,25.279
+LUX,Luxemburg,Luxemburg,49.6096,6.1297
+LVA,Riga,Riga,56.946,24.105
+MAF,MAF - Other,Marigot,46.554,15.646
+MAR,Casablanca,Casablanca,33.592,-7.619
+MEX,Mexico City,Mexico City,19.428,-99.127
+MKD,Skopje,Skopje,42,21.433
+MUS,Mauritius,Port Louis Town,-20.161,57.498
+MYS,Kuala Lumpur,Kuala Lumpur,3.141,101.686
+NGA,Abuja,Abuja,9.057,7.489
+NLD,Amsterdam,Amsterdam,52.374,4.889
+NOR,Oslo,Oslo,59.912,10.746
+NZL,Wellington,Wellington,-41.286,174.775
+PAK,Lahore,Lahore,31.549,74.343
+PAN,Panama City,Panama City,8.993,-79.519
+PER,Lima,Lima,-12.043,-77.028
+PHL,Manila,Manila,14.5995,120.9842
+POL,Warsaw,Warszawa,52.229,21.011
+PRT,Lisbon,Lisbon,38.7257,-9.1502
+QAT,Doha,Doha,25.279,51.522
+ROM,Bucharest,Bucharest,44.432,26.106
+RUS,Moscow,Moscow,55.752,37.615
+SAU,Riyadh,Riyadh,24.687,46.721
+SGP,Singapore,Singapore,1.289,103.85
+SLV,San Salvador,San Salvador,13.6929,-89.2182
+SRB,Belgrade,Belgrade,44.804,20.465
+SVK,Bratislava,Bratislava,48.148,17.106
+SVN,Ljubljana,Ljubljana,46.051,14.505
+SWE,Stockholm,Stockholm,59.332,18.064
+THA,Bangkok,Bangkok,13.75,100.516
+TTO,TTO - Other,Port-of-spain,10.666,-61.516
+TUN,Tunis,Tunis,36.818,10.165
+TUR,Istanbul,Istanbul,41.013,28.949
+TWN,Taiwan,Taipei,25.0374,121.5635
+TZA,Dodoma,Dodoma,-6.163,35.7516
+UGA,Kampala,Kampala,0.316,32.582
+UKR,Kiev,Kiev,50.454,30.523
+URY,Montevideo,Montevideo,-34.833,-56.167
+USA,AK,Juneau,64,-150
+USA,AL,Montgomery,32.75,-86.75
+USA,AR,Little Rock,34.75,-92.5
+USA,AZ,Phoenix,34.5,-111.5
+USA,CA,Sacramento,37.25,-119.75
+USA,CO,Denver,39,-105.5
+USA,CT,Hartford,41.66,-72.66
+USA,DC,Washington,38.91,-77
+USA,DE,Newark,38.6716,-75.4165
+USA,FL,Tallahassee,28.42,-81.55
+USA,GA,Atlanta,32.75,-83.5
+USA,HI,Honolulu,20.79,-156.34
+USA,IA,Des Moines,42,-93.5
+USA,ID,Boise,44.0739,-114.542
+USA,IL,Springfield,40,-89.25
+USA,IN,Indianapolis,40,-86.25
+USA,KS,Topeka,38.5,-98.5
+USA,KY,Frankfort,37.79,-84.87
+USA,LA,Baton Rouge,30.6935,-92.241
+USA,MA,Boston,42.33,-71.82
+USA,MD,Annapolis,39.4968,-77.0834
+USA,ME,Augusta,45.5,-69.24
+USA,MI,Lansing,43.1045,-84.6165
+USA,MN,Saint Paul,46.25,-94.25
+USA,MO,Jefferson City,38.25,-92.5
+USA,MS,Jackson,32.75,-89.75
+USA,MT,helena,47,-109.75
+USA,NC,Raleigh,35.5,-80
+USA,ND,Bismarck,47.5,-100
+USA,NE,Lincoln,41.5,-99.75
+USA,NH,Concord,43.66,-71.49
+USA,NJ,Trenton,40.16,-74.49
+USA,NM,Santa Fe,34.5,-106
+USA,NV,Carson City,39.25,-116.75
+USA,NY,Albany,43,-75.49
+USA,OH,Columbus,40.25,-83
+USA,OK,Oklahoma City,35.5,-97.5
+USA,OR,Salem,44,-120.5
+USA,PA,Harrisburg,40.86,-77.9
+USA,RI,Providence,41.75,-71.49
+USA,SC,Columbia,34,-81
+USA,SD,Pierre,44.5,-100.25
+USA,TN,Nashville,35.75,-86.25
+USA,TX,Austin,31.25,-99.25
+USA,UT,Salt Lake City,39.25,-111.75
+USA,VA,Richmond,37.77,-78.24
+USA,VT,Montpelier,44.1584,-72.7678
+USA,WA,Olympia,47.5,-120.5
+USA,WI,Madison,44.5,-90
+USA,WV,Kearneysville,38.63,-80.73
+USA,WV,Charleston,38.63,-80.73
+USA,WY,Cheyenne,43,-107.5
+ZAF,Cape Town,Cape Town,-33.916,18.416
